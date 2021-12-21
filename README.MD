@@ -96,10 +96,40 @@ git push origin master
 
 16. Create an instance of Heroku Dyno, push the dashboard source, build and deploy it.
 
+17. Add Cronjonb
 
+18. Dockerize
+
+19. Test on Google Cloud Platform or AWS
+
+20. Build Documentation Website
+
+
+## Tech Stack
+
+
+## References
 
 ## License 📜
 
 
 
 [<p align = 'center'><img src = 'https://media.giphy.com/media/XfD8VJDUurgMjNEP72/giphy.gif' width = 40%></p>](./LICENSE)
+
+
+## Code of Conduct
+
+
+## Contribution Guidelines🤝🏼:
+
+The project owner warmly welcomes any:
+    - feature suggestions
+    - code quality improvements
+    - UI Enhancements
+    - Addition of Components to DevOps Pipeline
+    - Change in Documentation [Not Readme]
+    - Bug Fixes
+
+
+**Built with 💖 by [Smaranjit Ghose](www.github.com/smaranjitghose)**
+
